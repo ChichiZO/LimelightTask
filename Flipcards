@@ -1,0 +1,167 @@
+<div class="wrapper">
+  <div class="card">
+    <input type="checkbox" id="card1" class="more" aria-hidden="true">
+    <div class="content">
+      <div class="front" style="background-image: url('https://www.retailgazette.co.uk/wp-content/uploads/2022/12/maxresdefault-7-1.jpg')">
+        <div class="inner">
+          <!-- <h2>ZARA</h2>-->
+          <div class="rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="far fa-star"></i>
+          </div>
+          <label for="card1" class="button" aria-hidden="true">
+            Products
+          </label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <div class="info">
+            <span>Shoes</span>
+            <div class="icon">
+              <i class="fas fa-users"></i>
+              <!-- <h2>ZARA</h2>-->
+            </div>
+          </div>
+          <div class="info">
+            <span>Bags</span>
+            <div class="icon">
+              <i class="fas fa-door-open"></i>
+
+            </div>
+          </div>
+          <div class="info">
+            <span>Perfumes</span>
+            <div class="icon">
+              <i class="fas fa-bed"></i>
+
+            </div>
+          </div>
+
+          <div class="description">
+            <p>One of the biggest international fashion companies in the world. Its core values are found in four simple terms: beauty, clarity, functionality and sustainability.
+            </p>
+            <p>Zara's products range from clothing, accessories, shoes, swimwear, beauty, and perfumes. Whatever you are looking for, we got you covered!</p>
+          </div>
+          <div class="location">Debrecen, Hungary</div>
+          <div class="price">Product line</div>
+          <label for="card1" class="button return" aria-hidden="true">
+            <i class="fas fa-arrow-left"></i>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <input type="checkbox" id="card2" class="more">
+    <div class="content">
+      <div class="front" style="background-image: url('https://assets.turbologo.com/blog/en/2020/01/19084710/louis-vuitton-cover-958x575.png')">
+        <div class="inner">
+          <!-- <h2>LV</h2>-->
+          <div class="rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+            <i class="far fa-star"></i>
+          </div>
+          <label for="card2" class="button" aria-hidden="true">
+            Products
+          </label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <div class="info">
+            <span>Jewellries</span>
+            <div class="icon">
+              <i class="fas fa-users"></i>
+
+            </div>
+          </div>
+          <div class="info">
+            <span>Clothing</span>
+            <div class="icon">
+              <i class="fas fa-door-open"></i>
+            </div>
+          </div>
+          <div class="info">
+            <span>Shoes</span>
+            <div class="icon">
+              <i class="fas fa-bed"></i>
+            </div>
+          </div>
+
+         <div class="description">
+            <p>Famed for being one of the most recognised luxury brands in the world, Louis Vuitton is synonymous with high-end leather goods.</p>
+           <p>The handmade quality of products is one of the founding principles of the Louis Vuitton brand. If you love the lavish lifestyle then LV is the brand for you.
+            </p>
+          </div>
+          <div class="location">NewYork, USA</div>
+          <div class="price">Product line</div>
+          <label for="card2" class="button return" aria-hidden="true">
+            <i class="fas fa-arrow-left"></i>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <input type="checkbox" id="card3" class="more">
+    <div class="content">
+      <div class="front" style="background-image: url('https://storage.googleapis.com/pod_public/750/96006.jpg')">
+        <div class="inner">
+          <!-- <h2>CHANEL</h2>-->
+          <div class="rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <label for="card3" class="button" aria-hidden="true">
+            Products
+          </label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <div class="info">
+            <span>Perfumes</span>
+            <div class="icon">
+              <i class="fas fa-users"></i>
+              
+            </div>
+          </div>
+          <div class="info">
+            <span>Makeup</span>
+            <div class="icon">
+              <i class="fas fa-door-open"></i>
+              
+            </div>
+          </div>
+          <div class="info">
+            <span>Eyewear</span>
+            <div class="icon">
+              <i class="fas fa-bed"></i>
+             
+            </div>
+          </div>
+          
+          <div class="description">
+            <p>A high fashion house that specializes in haute couture and ready-to-wear clothes, luxury goods and fashion accessories. Its products cover clothes, fragrances, handbags and watches. The brand is most famous for its “little black dress”, the Chanel No. 5 perfume and the Chanel Suit. </p>
+            <p>Chanel's style legacy endures, characterised by the three qualities that run through her timeless pieces: simplicity, elegance and comfort.</p>
+          </div>
+          <div class="location">Paris, France</div>
+          <div class="price">Product line</div>
+          <label for="card3" class="button return" aria-hidden="true">
+            <i class="fas fa-arrow-left"></i>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
